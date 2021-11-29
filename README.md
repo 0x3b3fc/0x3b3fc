@@ -17,7 +17,7 @@
 <a href="https://www.twitter.com/0x3b3fc">
   <img align="left" alt="My Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="dev.sief.hesham@gmail.com">
+<a href="mailto:dev.sief.hesham@gmail.com">
   <img align="left" alt="My Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
