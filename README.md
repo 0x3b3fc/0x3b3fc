@@ -5,17 +5,13 @@
 
 [![Linkedin: Sief Hesham](https://img.shields.io/badge/-0x3b3fc-blue?&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0x3b3fc/)](https://www.linkedin.com/in/0x3b3fc/)
 
-## I'm a Python - Django Developer
+## I'm a Mern Stack Developer
 - 😎 Currently taking a break from work.
-- 🌱 Learning more about and studying : `ReactJs`
+- 🌱 Learning more about and studying : `ReactJs & NodeJs`
 - 🥅 2022 Goals: Build A lot of projects with payment gateways integration 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]()
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />]()
-
 
 [<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]()
 
