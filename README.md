@@ -27,7 +27,7 @@
 
 ![1f52d](https://user-images.githubusercontent.com/65143991/143796026-fb9bba96-245e-4bca-bca2-d14fe76cc0a0.png)
 
-- 🔭 junior web developer.
+- 🔭 Mid Level Backend developer.
 - 💬 Feel free for asking me about anything.
 
 
