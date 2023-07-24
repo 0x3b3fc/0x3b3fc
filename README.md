@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sief Hesham</h1>
-<h3 align="center">A Mid Level Backend developer from Egypt</h3>
+<h3 align="center">A Senior Level Backend developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x3b3fc&label=Profile%20views&color=0e75b6&style=flat" alt="0x3b3fc" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/0x3b3fc" target="blank"><img src="https://img.shields.io/twitter/follow/0x3b3fc?logo=twitter&style=for-the-badge" alt="0x3b3fc" /></a> </p>
 
-- 🔭 I’m currently working on [Tass Academy](https://tassacademy.uk/)
+- 🔭 I’m currently working on **Carty**
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **React JS**
 
-- 👯 I’m looking to collaborate on [CureBSA](https://curebsa.com/)
+- 👯 I’m looking to collaborate on [Laravel](https://laravel.com/)
 
 - 👨‍💻 All of my projects are available at [https://siefhesham.tech/](https://siefhesham.tech/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **support@siefhesham.tech**
 
-- ⚡ Fun fact **I think I'm nerd.**
+- ⚡ Fun fact **eating watermelon like a monster.**
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 180px/>
 
 <h3 align="left">Connect with me:</h3>
